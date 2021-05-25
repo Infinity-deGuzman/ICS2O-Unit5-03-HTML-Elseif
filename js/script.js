@@ -7,7 +7,7 @@
 "use strict"
 
 function doMathClicked () {
-  // this code will check your age to see what movies/films you're allowed to watch.
+  // this code will check your age to see what movies you're allowed to watch.
 
   const userAge = parseInt(document.getElementById('user-age').value)
 
